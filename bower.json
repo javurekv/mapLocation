@@ -1,0 +1,24 @@
+{
+  "name": "map",
+  "description": "map",
+  "main": "index.js",
+  "authors": [
+    "Javurek Vitaliy"
+  ],
+  "dependencies": {
+    "angular": "1.6.1",
+    "bootstrap": "^3.3.7",
+    "ngCordova": "^0.1.27-alpha"
+  },
+  "homepage": "https://github.com/javurekv/mapLocation",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/libs",
+    "test",
+    "tests"
+  ]
+}
